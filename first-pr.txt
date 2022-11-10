@@ -1,0 +1,5 @@
+x * a = z
+x + a = z
+a + x = z
+x - a = z
+a - x = z

@@ -1,0 +1,15 @@
+x + y = a; y + z = x
+x + y = a; z + y = x
+x + y = a; x + z = y
+x + y = a; z + x = y
+x + y = a; x - y = z
+y + x = a; y + z = x
+y + x = a; z + y = x
+y + x = a; x + z = y
+y + x = a; z + x = y
+y + x = a; x - y = z
+x - y = a; y - z = -x
+x - y = a; z - x = y
+x - y = a; x - z = y
+x - y = a; x + y = z
+x + y = a; z + x - y = 0
